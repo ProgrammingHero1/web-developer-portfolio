@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
+    background-color: hsl(3, 5%, 50%);
 }
 section{
     height: 500px;
