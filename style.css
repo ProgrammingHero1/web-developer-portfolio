@@ -58,13 +58,11 @@ h2{
     height: 80%;
 }
 #full-stack{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon, tomato);
-    border-image-slice: 1;
+    border-left: 7px solid tomato;
 }
 #baby-web{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
+    border-image: linear-gradient(blue 100%, cyan 100%);
     border-image-slice: 1;
 }
 footer p{
